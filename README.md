@@ -6,7 +6,6 @@ This repo includes certificates (or links to certificates) of various achievemen
 
 <img src='https://github.com/yash982000/Certifications/blob/master/Google%20Hash%20Code%20Hub%20Manager%20Ahmedabad%20University.pdf' align='left' width='25%'>
 
-<img src='https://github.com/yash982000/Certifications/blob/master/National%20Creativity%20Aptitude%20Test%202019.jpeg
-' align='left' width='25%'>
+<img src='https://github.com/yash982000/Certifications/blob/master/National%20Creativity%20Aptitude%20Test%202019.jpeg' align='left' width='25%'>
 
   
